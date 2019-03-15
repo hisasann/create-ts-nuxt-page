@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": "cli.js",
-    "files": [
+  "files": [
     "cli.js"
   ],
   "repository": {
