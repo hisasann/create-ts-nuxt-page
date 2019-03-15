@@ -1,0 +1,22 @@
+{
+  "name": "create-ts-nuxt-page",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "cli.js",
+    "files": [
+    "cli.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisasann/create-ts-nuxt-page.git"
+  },
+  "author": "hisasann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hisasann/create-ts-nuxt-page/issues"
+  },
+  "homepage": "https://github.com/hisasann/create-ts-nuxt-page#readme"
+}
