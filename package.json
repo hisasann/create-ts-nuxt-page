@@ -1,11 +1,12 @@
 {
   "name": "create-ts-nuxt-page",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "scripts": {
     "dev": "node cli.js dist",
     "test": "ava --verbose",
-    "test:snapshot": "ava --verbose --update-snapshots"
+    "test:snapshot": "ava --verbose --update-snapshots",
+    "release": "standard-version"
   },
   "bin": "cli.js",
   "files": [
@@ -28,6 +29,7 @@
     "superb": "^3.0.0"
   },
   "devDependencies": {
-    "ava": "^1.3.1"
+    "ava": "^1.3.1",
+    "standard-version": "^5.0.2"
   }
 }
